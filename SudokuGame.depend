@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1597155673 source:e:\fcai\myprojects\sudokugame\main.cpp
+	<System.h>
+	<Colors.h>
+
+1595541643 e:\fcai\myprojects\sudokugame\include\user.h
+	<iostream>
+
+1595781667 source:e:\fcai\myprojects\sudokugame\src\user.cpp
+	"User.h"
+
+1596829099 source:e:\fcai\myprojects\sudokugame\untitled1.cpp
+
+1596911232 e:\fcai\myprojects\sudokugame\include\board.h
+	<Colors.h>
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1597858169 source:e:\fcai\myprojects\sudokugame\src\board.cpp
+	"Board.h"
+
+1596905580 source:e:\fcai\myprojects\sudokugame\src\game.cpp
+	"Game.h"
+
+1596904510 e:\fcai\myprojects\sudokugame\include\game.h
+	<iostream>
+	<chrono>
+	<iomanip>
+	<Board.h>
+	<Validations.h>
+
+1597859041 source:e:\fcai\myprojects\sudokugame\src\system.cpp
+	"System.h"
+
+1596911207 e:\fcai\myprojects\sudokugame\include\system.h
+	<bits/stdc++.h>
+	<fstream>
+	<windows.h>
+	<Board.h>
+	<Game.h>
+	<Validations.h>
+	<Colors.h>
+	<SaveData.h>
+
+1596751610 source:e:\fcai\myprojects\sudokugame\src\validations.cpp
+	"Validations.h"
+
+1596903436 e:\fcai\myprojects\sudokugame\include\validations.h
+	<iostream>
+
+1596902254 source:e:\fcai\myprojects\sudokugame\src\colors.cpp
+	"Colors.h"
+
+1596902863 e:\fcai\myprojects\sudokugame\include\colors.h
+	<iostream>
+
+1596902007 e:\fcai\myprojects\sudokugame\include\savedata.h
+	<iostream>
+	<string.h>
+
+1596901905 source:e:\fcai\myprojects\sudokugame\src\savedata.cpp
+	"SaveData.h"
+
